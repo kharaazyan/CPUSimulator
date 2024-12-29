@@ -6,7 +6,7 @@ This project is a simple CPU simulator implemented in C++. It supports a limited
 **Good Example of Usage:**  
 ```bash
 # Clone the repository (or copy the files into a directory)
-git clone https://example.com/your-cpu-simulator.git
+git clone https://github.com/kharaazyan/CPUSimulator
 
 cd your-cpu-simulator/CPU
 
