@@ -8,7 +8,7 @@ This project is a simple CPU simulator implemented in C++. It supports a limited
 # Clone the repository (or copy the files into a directory)
 git clone https://github.com/kharaazyan/CPUSimulator
 
-cd your-cpu-simulator/CPU
+cd CPUSimulator
 
 # Build the project
 make
